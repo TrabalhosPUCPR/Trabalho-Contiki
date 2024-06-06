@@ -1,3 +1,8 @@
+/*
+ * Leonardo Matthew Knight
+ * Ciencia da Computacao
+ */ 
+
 #include "contiki.h"
 #include "random.h"
 #include <stdio.h>
